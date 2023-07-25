@@ -1,0 +1,20 @@
+html {
+    background-image: linear-gradient(red, blue);
+    font-family: "Poppins", sans-serif;
+    color: khaki;
+    font-size: larger;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+img {
+    height: 200px;
+    width: 180px;
+}
+
+.links {
+    text-decoration: none;
+    color: khaki;
+}
